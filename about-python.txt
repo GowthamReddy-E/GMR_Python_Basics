@@ -1,0 +1,4 @@
+python is a interpreted language
+was invented by gudio van russem 1989
+1991 0.9.0 release 
+2008   3.0 release 
