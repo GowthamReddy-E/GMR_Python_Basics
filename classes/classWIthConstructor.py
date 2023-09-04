@@ -1,7 +1,6 @@
 class class_C():
 
-    txt="this is the constructor in the class_c"
-
-    def __init__(txt):
+    def __init__(self,txt):
         print(txt)
-    
+
+obj=class_C("this is sample org")
