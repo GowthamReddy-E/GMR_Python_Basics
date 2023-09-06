@@ -28,7 +28,7 @@ print("\t\t\t\t\t*","\n\t\t\t\t*","*","*","*\n","\t\t\t*","*","*","*","*\n","\t\
 
 
 
-print("\t\t\t   *",end="\n")
+# print("\t\t\t   *",end="\n")
 print("\t\t\t   *",end="\n")
 print("\t\t   *","*","*",sep="\t",end="\n")
 print("\t   *","*","*","*","*",sep="\t",end="\n")
@@ -36,7 +36,7 @@ print("\t*","*","*","*","*","*","*",sep="\t",end="  \n")
 print("\t   *","*","*","*","*",sep="\t",end="\n")
 print("\t\t   *","*","*",sep="\t",end="\n")
 print("\t\t\t   *",end="\n")
-print("\t\t\t   *",end="\n")
+# print("\t\t\t   *",end="\n")
 
 
 print("\t\t\t   *",end="\n")
