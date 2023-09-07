@@ -51,3 +51,5 @@ print(type(tuple2))
 dic1=dict(zip(tuple1,tuple2))
 print(dic1)
 print(type(dic1))
+
+
