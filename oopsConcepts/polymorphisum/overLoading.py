@@ -1,11 +1,13 @@
 class ClassA():
     def method_One(self,name=None,age=None,degree=None):
         if name==None:
-            print("give any of the values at least")
+            print("write logics if name equal to none")
         elif age==None:
-            print("give age value")
+            print("write logics if name equal to none")
         elif degree==None:
-            print("give degree value")
+            print("write logics if name equal to none")
+        else:
+            print("write default logics")
 
 obj=ClassA()
 
